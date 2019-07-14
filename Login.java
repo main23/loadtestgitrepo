@@ -3,5 +3,6 @@ class Login {
 		System.out.println("Hello GaneSh");
 		
 		System.out.println("Krishn");
+		System.out.println("f1");
 }
 }
